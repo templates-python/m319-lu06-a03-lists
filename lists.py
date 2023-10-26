@@ -13,20 +13,20 @@ def main():
 
 def add_cities(cities):
     # TODO: add Biel at the end of the list
-    # TODO: add Basel at Position 2
+    # TODO: add Basel at Index 2
     print('add_cities:\n', cities)
 
 
 def remove_cities(cities):
     # TODO: remove the last city from the list
-    # TODO: remove the city at position 1
+    # TODO: remove the city at Index 1
     # TODO: remove Bern from the list
     print('remove_cities:\n', cities)
 
 
 def find_cities(cities):
     print('find_city:')
-    # TODO: print the city at position 4
+    # TODO: print the city at Index 4
     # TODO: print the position of Genf
     pass
 
