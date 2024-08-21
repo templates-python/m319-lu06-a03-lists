@@ -1,0 +1,32 @@
+[
+  {
+    "name": "lists.add",
+    "function": "lists.add",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "lists.remove",
+    "function": "lists.remove",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "lists.find",
+    "function": "lists.find",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "lists.loop",
+    "function": "lists.loop",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "lists.sort",
+    "function": "lists.sort",
+    "timeout": 10,
+    "points": 1
+  }
+]
