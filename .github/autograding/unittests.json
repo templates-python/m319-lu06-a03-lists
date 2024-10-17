@@ -1,31 +1,31 @@
 [
   {
-    "name": "lists.add",
-    "function": "lists.add",
+    "name": "test_add",
+    "function": "test_add",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "lists.remove",
-    "function": "lists.remove",
+    "name": "test_remove",
+    "function": "test_remove",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "lists.find",
-    "function": "lists.find",
+    "name": "test_find",
+    "function": "test_find",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "lists.loop",
-    "function": "lists.loop",
+    "name": "test_loop",
+    "function": "test_loop",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "lists.sort",
-    "function": "lists.sort",
+    "name": "test_sort",
+    "function": "test_sort",
     "timeout": 10,
     "points": 1
   }
